@@ -11,7 +11,6 @@ FitMe is a comprehensive fitness application developed to streamline gym adminis
 🏋️‍♂️ MongoDB for data storage 🗄️  
 🏋️‍♂️ Spring Boot for backend 🚀  
 🏋️‍♂️ PostMan for API testing 📡  
-🏋️‍♂️ Azure Cognitive Services for AI 🌐  
 🏋️‍♂️ Retrofit for API integration 📡  
 
 
