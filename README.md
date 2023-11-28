@@ -19,7 +19,7 @@ FitMe is a comprehensive fitness application developed to streamline gym adminis
   - [Workout Management](#workout-management)
 - [Data Visualization](#data-visualization)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -89,9 +89,7 @@ Utilize graphical data visualization for:
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
