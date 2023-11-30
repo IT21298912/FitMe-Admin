@@ -11,7 +11,8 @@ FitMe-Admin is a comprehensive fitness application developed to streamline gym a
 ## Technology
 🏋️‍♂️ Kotlin for app development 📱     
 🏋️‍♂️ PostMan for API testing 📡  
-🏋️‍♂️ Retrofit for API integration 📡  
+🏋️‍♂️ Retrofit for API integration 📡
+🏋️‍♂️ PocketBase for Backend 🚀
 
 
 
