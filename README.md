@@ -6,12 +6,10 @@
 
 # FitMe Fitness App
 
-FitMe is a comprehensive fitness application developed to streamline gym administration tasks. The application features a Kotlin-based front end with a Pocketbase back end as a service technology, ensuring efficient management of user, payment, trainer, meal, and workout data. With graphical data visualization, animations, and user-friendly interfaces, FitMe is designed to simplify the work of gym administrators.
+FitMe-Adnin is a comprehensive fitness application developed to streamline gym administration tasks. The application features a Kotlin-based front end with a Pocketbase back end as a service technology, ensuring efficient management of user, payment, trainer, meal, and workout data. With graphical data visualization, animations, and user-friendly interfaces, FitMe is designed to simplify the work of gym administrators.
 
 ## Technology
-🏋️‍♂️ Kotlin for app development 📱  
-🏋️‍♂️ MongoDB for data storage 🗄️  
-🏋️‍♂️ Spring Boot for backend 🚀  
+🏋️‍♂️ Kotlin for app development 📱     
 🏋️‍♂️ PostMan for API testing 📡  
 🏋️‍♂️ Retrofit for API integration 📡  
 
