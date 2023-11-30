@@ -1,4 +1,5 @@
-[pic](https://raw.githubusercontent.com/IT21298912/FitMe-Admin/master/assert/poster.jpg)
+![Alt Text](https://raw.githubusercontent.com/IT21298912/FitMe-Admin/master/assert/poster.jpg)
+
 
 
 ---
