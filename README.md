@@ -1,4 +1,5 @@
-![1](https://github.com/IT21298912/FitMe-Admin/assert/poster)
+[pic](https://raw.githubusercontent.com/IT21298912/FitMe-Admin/master/assert/poster.jpg)
+
 
 ---
 
