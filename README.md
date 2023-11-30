@@ -1,4 +1,4 @@
-![1](https://github.com/IT21298912)
+![1](https://github.com/IT21298912/FitMeAdmin/app/src/main/res/drawable/posterImg.jpg)
 
 ---
 
