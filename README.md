@@ -1,15 +1,14 @@
-![1](https://github.com/IT21298912/FitMe-Admin/FitMeAdmin/app/src/main/res/drawable/posterImg)
 
 ---
 
-# FitMe Fitness App
+# FitMe-Admin App
+![Green and Black Modern Sales Marketing Presentation](https://github.com/IT21298912/FitMe-Admin/assets/99547060/a099178b-8076-4ef8-8116-38cd0be7e27f)
 
-FitMe is a comprehensive fitness application developed to streamline gym administration tasks. The application features a Kotlin-based front end with a Pocketbase back end as a service technology, ensuring efficient management of user, payment, trainer, meal, and workout data. With graphical data visualization, animations, and user-friendly interfaces, FitMe is designed to simplify the work of gym administrators.
+FitMe-Admin is a comprehensive fitness application developed to streamline gym administration tasks. The application features a Kotlin-based front end with a Pocketbase back end as a service technology, ensuring efficient management of user, payment, trainer, meal, and workout data. With graphical data visualization, animations, and user-friendly interfaces, FitMe is designed to simplify the work of gym administrators.
 
 ## Technology
-🏋️‍♂️ Kotlin for app development 📱  
-🏋️‍♂️ MongoDB for data storage 🗄️  
-🏋️‍♂️ Spring Boot for backend 🚀  
+🏋️‍♂️ Kotlin for frontend 📱  
+🏋️‍♂️ Pocketbase for backend 🗄️  
 🏋️‍♂️ PostMan for API testing 📡  
 🏋️‍♂️ Retrofit for API integration 📡  
 
